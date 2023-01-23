@@ -1,0 +1,1 @@
+// write a program to print a number print a numbers between 1 to 100 which is divisable by 3 and 5 and both
