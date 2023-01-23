@@ -6,3 +6,4 @@ what is derived datatype?
  
  why is string is consider as a non-primitive ? why?
  because class can contain some methods  but primitive con't have
+ 
