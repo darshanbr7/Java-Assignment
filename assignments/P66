@@ -1,0 +1,15 @@
+what is comparable ?
+ it is an object used to compare  "itself" with Another Object.
+ 
+ what is Comparator ?
+ comparator is used to Compare two object to different object in differrent class
+ 
+ difference between comparable and comparator
+ 
+  comparable                                                 comparator
+  * it is used to compare itself with						* it compares the two Object  of the two different
+    another Object												 classes
+   SS
+  * it provide CompareTo() method							* it porvide Comapre() method
+  
+  * It present in java.lang package							*  it present in java.util package
