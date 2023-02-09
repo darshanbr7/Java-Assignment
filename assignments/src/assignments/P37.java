@@ -1,4 +1,4 @@
-// what is the defaul value of Array
+// what is the default value of Array
 /*
   default value of int-Array is 0
   default value of long-Array is 0
@@ -8,6 +8,7 @@
   default value of String-Array is Null
   default value of char-Array is Null
   default value of boolean-Array is false
+  default value of float-Array is 0.0
  */
 package assignments;
 
@@ -53,6 +54,12 @@ public class P37 {
 		System.out.println(" for boolean  Array");
 		boolean[] h=new boolean[10];
 		for(boolean ele:h) {
+			System.out.println(ele);
+		}
+		
+		System.out.println(" for float  Array");
+		float[] i=new float[10];
+		for(float ele:i) {
 			System.out.println(ele);
 		}
 
