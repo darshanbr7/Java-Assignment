@@ -1,14 +1,18 @@
-// .What is the difference between ArrayList and Vector in Java?
+/* difference between ArrayList and Linked List
 
-Arraylist
-   * it is not synchronized.
-   * the iteration is fast because it is not synchronized
-   * Arraylist  increses the cureentsize of 50% when it was completed 
-   
+ArrayList :
+	* ArrayList are internally uses Dynamic Array to store an element.
+	* manipulation of Arraylist is slow
+	* ArrayList is Better for Storing and Acessing
+	* default capacity is 10
 
 
 
-Vector
-   * it is synchronized  
-   * iteration is slow becaose it is synchronized
-   * vectors increses 100 % currentsize when it is completed 
+
+LinkedList :
+	* Linked list are internally usesDoubly Linked list to Store an element
+	* manipulation of Linked List is fast
+	* Linked List is Better for manipulating
+	* no default capacity
+
+*/
