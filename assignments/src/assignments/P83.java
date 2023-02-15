@@ -1,4 +1,7 @@
 // write a program to convert HashSet to array.
+/* 
+  HashSet is converted into Array using ToArray() method.
+ */
 package assignments;
 
 import java.util.HashSet;
